@@ -53,3 +53,4 @@ struct BadgeBackground_Previews: PreviewProvider {
         BadgeBackground()
     }
 }
+
